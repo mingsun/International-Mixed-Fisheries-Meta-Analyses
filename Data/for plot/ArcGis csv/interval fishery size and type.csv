@@ -1,0 +1,23 @@
+code,region,case,abb.,x,y,type,size,log10,interval,,,,,,
+17,miscellaneous,"Mixed fishery of Shandong Province, China",CNSDMF,121.9403569,36.09549163,multi-sector,2000000,6.301029996,43,,,,,,
+10,EU North Atlantic,Mixed Fishery in the Baltic Sea,BSMF,20,59.75,multi-sector,600000,5.77815125,15,,0.01,20000,,100000,5
+21,miscellaneous,Northern Chile Small Pelagic Fishery,NCSPF,-72,-21,pelagic,599844,5.778038319,15,,,,,200000,7
+9,EU North Atlantic,Demersal Mixed Fishery in the Greater North Sea,GNSDMF,3.915,55.5,demersal,238589,5.377650417,9,,,,,300000,9
+19,miscellaneous,South African Small Pelagic Fishery,SASPF,23.5,-35.78365619,pelagic,223779,5.349819329,9,,,,,400000,11
+5,EU Mediterranean and Black Sea,Adraitic Sea Mixed Fishery,ASMF,16.125,42.575,multi-sector,135629,5.13235256,7,,,,,500000,13
+11,US,Gulf of Alaska Groundfish Fisheries,GOAGF,-151.33,55.25,demersal,185927,5.269342462,7,,,,,600000,15
+13,US,Pacific Coast Groundfish Fishery,PCGF,-123.7623641,38.32163311,demersal,129827,5.113365022,7,,,,,700000,17
+20,miscellaneous,Canada Pacific Region Groundfish Fishery,CPGF,-130,50,demersal,141262,5.150025351,7,,,,,800000,19
+22,miscellaneous,Northern Brazil-Guianas Shelf Shrimp and Groundfish Fishery,NBGFSGF,-48.5964312,5.666249082,multi-sector,180000,5.255272505,7,,,,,900000,21
+1,Australia,South Eastern Scalefish and Shark Fishery,SESSF,139.4969192,-38.99088853,multi-sector,16000,4.204119983,5,,,,,1000000,23
+2,Australia,Northern Prawn Fishery,NPF,134.8555353,-11.08710126,shrimp,8581,3.933537902,5,,,,,1100000,25
+3,Australia,North West Slope Trawl Fishery,NWSTF,119.5,-16.61,demersal,67.4,1.828659897,5,,,,,1200000,27
+4,EU Mediterranean and Black Sea,Western Mediterranean Demersal Fishery,WMDF,5.315342382,40.76142752,demersal,13792.6,4.139646141,5,,,,,1300000,29
+6,EU North Atlantic,Demersal Mixed Fishery in the Atlantic Iberian Waters,AIWDMF,-10.39041874,40.25,demersal,14358,4.157093949,5,,,,,1400000,31
+7,EU North Atlantic,Demersal Mixed Fishery in the Bay of Biscay,BBDMF,-6,45.5,demersal,37737,4.576767372,5,,,,,1500000,33
+8,EU North Atlantic,Demersal Mixed Fishery in the Celtic Sea,CSDMF,-7.1083285,50.92877276,demersal,56804,4.754378919,5,,,,,1600000,35
+12,US,Northeast Groundfish Fishey,NEGF,-70.875,40,demersal,36848,4.566413921,5,,,,,1700000,37
+14,US,Gulf of Mexico Shrimp Fishery,GOMSF,-89,27,shrimp,65231.1,4.814454702,5,,,,,1800000,39
+15,US,South Atlantic Snapper-Grouper Fishery,SASGF,-77,30.25,reef,2175.02,3.337463255,5,,,,,1900000,41
+16,US,West Coast Coastal Pelagic Species Fishery,WCCPF,-127.6280517,38.40607431,pelagic,91199.4,4.959991981,5,,,,,2000000,43
+18,miscellaneous,Deepwater snapper and grouper fishery in Indonesia,IDDSGF,111,-5.5,reef,100000,5,5,,,,,,

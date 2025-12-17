@@ -1,0 +1,25 @@
+code,region,case,abb.,x,y,overfishing,not overfishing,uncertain,N
+1,Australia,South and Eastern Scalefish and Shark Fishery,SESSF,139.14,-35.85,0,0.73,0.27,37
+2,Australia,Northern Prawn Fishery,NPF,134.57,-13.3,0,0.83,0.17,6
+3,Australia,North West Slope Trawl Fishery,NWSTF,119.5,-16.61,0,1,0,1
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,ASMF,16.125,42.575,0.7,0.1,0.2,10
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,WMDF,6,40,0.63,0.16,0.21,19
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,AIWDF,-6.5,35,0,0.8,0.2,5
+7,EU North Atlantic,Baltic Sea mixed fishery,BSMF,19,59,0.5,0.375,0.125,8
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,BBDMF,-18,43,0.21,0.5,0.29,14
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,CSDMF,-9,51.25,0.33,0.59,0.08,12
+10,EU North Atlantic,North Sea demersal mixed fishery,GNSDMF,3.915,55.5,0.53,0.16,0.31,26
+11,US,Bering Sea and Aleutian Island groundfish fishery,BSAIGF,-173.5,58.75,0,1,0,20
+12,US,Gulf of Alaska groundfish fishery,GOAGF,-151.33,55.25,0,0.9,0.1,20
+13,US,Gulf of Mexico reef fish fishery,GOMRFF,-100,27,0.06,0.65,0.29,31
+14,US,Gulf of Mexico shrimp fishery,GOMSF,-86,27,0,1,0,4
+15,US,Northeast groundfish fishery,NEGF,-70.875,40,0.1,0.85,0.05,31
+16,US,Pacific Coast groundfish fishery,PCGF,-115,40.5,0,0.69,0.31,13
+17,US,South Atlantic snapper-grouper fishery,SASGF,-77,30.25,0.26,0.24,0.5,24
+18,US,West Coast coastal pelagic species fishery,WCCPF,-128,40.5,0,0.4,0.6,5
+19,miscellaneous,Canada Pacific Region groundfish fishery,CPGF,-130,55,0.1,0.53,0.37,30
+20,miscellaneous,China-Shandong mixed fishery,CNSDMF,121.75,36.5,0,0,1,15
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,IDDSGF,111,-5.5,0,0,1,8
+22,miscellaneous,Northern Brazil-Guianas Shelf shrimp and groundfish fishery,NBGFSGF,-50.5,5,0.25,0.25,0.5,5
+23,miscellaneous,Northern Chile small pelagic fishery,NCSPF,-72,-21,0,0.5,0.5,4
+24,miscellaneous,South African small pelagic fishery,SASPF,23.5,-32.5,0,1,0,3

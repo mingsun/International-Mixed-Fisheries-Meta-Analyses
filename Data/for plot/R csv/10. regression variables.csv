@@ -1,0 +1,24 @@
+code,case,B.msy,F.msy,type,region,size,log.size,latitude,gear,D,H,J,p.assessed,p.drm.assessed,pre.assess.mf,assess.mf,cover.species,tool,pre.manage.mf,manage.mf,pub.freq,kws.freq
+1,South and Eastern Scalefish and Shark Fishery,0.73,0.73,multi-sector,Australia,16000,9.680344001,35.85,5,3.202758655,2.146780023,0.619429779,1,0.53,y,ecosystem,t+b,input,y,ecosystem,10,22
+2,Northern Prawn Fishery,0.83,0.83,shrimp,Australia,8581,9.057305736,13.3,1,0.442112623,0.877324985,0.545112662,0.67,0.67,y,ecosystem,t+b,input,y,ecosystem,9,19
+3,North West Slope Trawl Fishery,1,1,demersal,Australia,67.4,4.210645018,16.61,1,0.237493305,0.66884091,0.964933464,1,0,y,ecosystem,t,input,y,ecosystem,1,1
+4,Adriatic Sea mixed fishery,0.4,0.1,multi-sector,EU Mediterranean and Black Sea,135629,11.8176785,42.575,2,0.761570896,1.430652194,0.621324353,1,0.67,n,n,t,input,y,multi,14,19
+5,Western Mediterranean demersal mixed fishery,0,0.16,multi-sector,EU Mediterranean and Black Sea,13792.6,9.531887495,40,4,0.524555079,1.515642729,0.845896313,1,0.79,y,fishery,t,input,y,multi,17,27
+6,Atlantic Iberian Waters demersal mixed fishery,0.8,0.8,demersal,EU North Atlantic,14358,9.572062557,40.25,3,0.417882768,0.699999726,0.434934284,1,0.6,y,fishery,t+b,output,y,fishery,7,11
+7,Bay of Biscay demersal mixed fishery,0.43,0.5,demersal,EU North Atlantic,37737,10.53839632,45.5,3,1.233581174,1.817799501,0.688806371,0.86,0.57,y,fishery,t+b,output,y,fishery,23,36
+8,Celtic Sea demersal mixed fishery,0.42,0.59,demersal,EU North Atlantic,56804,10.94736202,51.25,3,0.548135453,1.620171467,0.832603431,0.92,0.92,y,fishery,t+b,output,y,fishery,11,21
+9,North Sea demersal mixed fishery,0.5,0.385,demersal,EU North Atlantic,285385,12.56159442,55.5,4,1.114508201,2.133850218,0.787965532,0.97,0.62,y,fishery,t+b,output,y,fishery,58,93
+10,Bering Sea and Aleutian Island groundfish fishery,0.71,1,demersal,US,1858807,14.43544544,58.75,3,1.381570434,1.129520187,0.371000776,0.96,0.63,y,ecosystem,t+b,output,y,multi,14,40
+11,Gulf of Alaska groundfish fishery,0.65,0.9,demersal,US,185927,12.1331094,55.25,3,1.548043315,1.650841108,0.5510643,1,0.65,y,ecosystem,t+b,output,y,multi,13,20
+12,Gulf of Mexico reef fish fishery,0.35,0.65,reef,US,5608.6,8.632056413,27,1,1.737708396,1.455854267,0.525088433,0.74,0.48,n,n,t,output,n,n,18,27
+13,Gulf of Mexico shrimp fishery,0.75,1,shrimp,US,65231.1,11.08569163,27,2,0.27061911,0.900746608,0.649751332,1,0.75,y,multi,t+b,output,y,multi,7,11
+14,Northeast groundfish fishery,0.35,0.85,demersal,US,36848,10.51455662,40,3,0.85310819,1.46579844,0.636588174,1,0.6,y,ecosystem,t+b,output,y,multi,13,23
+15,Pacific Coast groundfish fishery,0.62,0.69,demersal,US,129827,11.77395807,40.5,5,1.019198465,0.952856351,0.371491292,1,0.62,y,ecosystem,t+b,output,y,multi,22,32
+16,South Atlantic snapper-grouper fishery,0.26,0.24,reef,US,2175.02,7.684793139,30.25,3,2.992905858,2.44003107,0.767775249,0.5,0.44,n,n,t+b,output,n,n,0,0
+17,West Coast coastal pelagic species fishery,0.2,0.4,pelagic,US,91199.4,11.4208036,40.5,2,0.350238052,0.879095208,0.546212563,0.4,0.4,n,n,t+b,output,y,multi,0,0
+18,Canada Pacific Region groundfish fishery,0.47,0.53,demersal,miscellaneous,141262,11.8583716,50,4,2.445509267,1.356657331,0.398876389,0.83,0.5,n,n,t+b,output,y,multi,6,9
+19,China-Shandong mixed fishery,0,0,multi-sector,miscellaneous,2000000,14.50865774,36.5,6,1.032706532,1.813620373,0.669714458,0,0,n,n,n,input,n,n,2,3
+20,Indonesia deepwater snapper-grouper fishery,0,0,reef,miscellaneous,100000,11.51292546,5.5,3,0.737337902,1.817549057,0.789351526,0,0,n,n,n,input,n,n,5,8
+21,Northern Brazil-Guianas Shelf shrimp and groundfish fishery,0.25,0.25,multi-sector,miscellaneous,180000,12.10071213,5,4,0.246816492,1.053174028,0.759704474,0.75,0.5,y,ecosystem,t+b,input,n,n,2,2
+22,Northern Chile small pelagic fishery,0.5,0.5,pelagic,miscellaneous,599844,13.3044249,21,2,0.300651853,0.468413084,0.291041413,0.5,0.5,n,n,t,output,y,multi,2,6
+23,South African small pelagic fishery,0.67,1,pelagic,miscellaneous,223779,12.31841424,32.5,1,0.24353784,0.720877055,0.520002876,1,0.75,n,n,t,output,y,fishery,3,4

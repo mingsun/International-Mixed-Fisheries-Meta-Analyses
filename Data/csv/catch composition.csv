@@ -1,0 +1,358 @@
+code,region,case,species,data year,No. total species,total catch,catch,discard rate,notes,scientific name
+1,Australia,South and Eastern Scalefish and Shark Fishery,Blue Grenadier,2019,400,15981,7044,NA,,Macruronus novaezelandiae
+1,Australia,South and Eastern Scalefish and Shark Fishery,Flathead,2019,400,15981,1967,NA,,Neoplatycephalus richardsoni
+1,Australia,South and Eastern Scalefish and Shark Fishery,Gummy Shark,2019,400,15981,1779,NA,,Seriolella punctata
+1,Australia,South and Eastern Scalefish and Shark Fishery,Pink Ling,2019,400,15981,833,NA,,Mustelus antarcticus
+1,Australia,South and Eastern Scalefish and Shark Fishery,Deepwater Flathead,2019,400,15981,694,NA,,Genypterus blacodes
+1,Australia,South and Eastern Scalefish and Shark Fishery,Orange Roughy (Eastern),2019,400,15981,619,NA,,Sillago flindersi
+1,Australia,South and Eastern Scalefish and Shark Fishery,School Whiting,2019,400,15981,526,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Silver Warehou,2019,400,15981,307,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Blue Eye Trevalla,2019,400,15981,217,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Saw Shark,2019,400,15981,189,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,School Shark,2019,400,15981,184,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Bight Redfish,2019,400,15981,170,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Ocean Perch,2019,400,15981,169,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Royal Red Prawn,2019,400,15981,164,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Ribaldo,2019,400,15981,129,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Mirror Dory,2019,400,15981,117,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Jackass Morwong,2019,400,15981,109,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Gemfish (Western),2019,400,15981,96,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Oreodory,2019,400,15981,94,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Orange Roughy (Southern),2019,400,15981,91,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Deepwater shark (western),2019,400,15981,85,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Smooth oreodory (other),2019,400,15981,76,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Gemfish (Eastern),2019,400,15981,71,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,John Dory,2019,400,15981,68,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Elephant Fish,2019,400,15981,47,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Redfish,2019,400,15981,29,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Orange Roughy (Western),2019,400,15981,24,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Orange Roughy (Cascade Plateau),2019,400,15981,24,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Deepwater shark (eastern),2019,400,15981,22,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Silver Trevally,2019,400,15981,21,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Blue Warehou,2019,400,15981,10,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Alfonsino,2019,400,15981,6,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Orange Roughy (Albany and Esperance),2019,400,15981,NA,NA,,
+1,Australia,South and Eastern Scalefish and Shark Fishery,Smooth oreodory (Cascade Plateau),2019,400,15981,NA,NA,,
+2,Australia,Northern Prawn Fishery,white banana prawns,2019,140,8394,5640,NA,,Fenneropenaeus merguiensis
+2,Australia,Northern Prawn Fishery,tiger prawns,2019,140,8394,2086,NA,,Penaeus.
+2,Australia,Northern Prawn Fishery,endeavour prawns,2019,140,8394,656,NA,,Metapenaeus.
+2,Australia,Northern Prawn Fishery,other prawns,2019,140,8394,12,NA,,
+2,Australia,Northern Prawn Fishery,non-target species,2019,140,8394,103,NA,,
+3,Australia,North West Slope Trawl Fishery,Scampi,2019,66,67.4,41.1,0.33-0.5,,Metanephrops.
+3,Australia,North West Slope Trawl Fishery,non-target species,2019,66,67.4,26.3,0.33-0.5,,
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,anchovy,2016,300,135629,34000,0.18,,Engraulis encrasicolus
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,sardine,2016,300,135629,72400,0.18,,Sardina pilchardus
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,hake,2019,300,135629,5056,0.18,,Merluccius merluccius
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,sole,2019,300,135629,1940,0.18,,Solea vulgaris
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,red mullet,2019,300,135629,4632,0.18,,Mullus barbatus
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,common cuttlefish,2019,300,135629,4820,0.18,,Sepia officinalis
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,Norway lobster,2019,300,135629,1648,0.18,,Nephrops norvegicus
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,spottail mantis shrimp,2019,300,135629,4372,0.18,,Squilla mantis
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,deep-water rose shrimp,2019,300,135629,5993,0.18,,Parapenaeus longirostris
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,caramote prawn,2019,300,135629,768,0.18,,Penaeus kerathurus
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,non-target species,2019,300,135629,NA,0.18,,
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,hake,2019,300,13792.6,5234,0.18,,Merluccius merluccius
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,red mullet,2019,300,13792.6,3402,0.18,,Mullus barbatus
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,giant red shrimp,2019,300,13792.6,571,0.18,,Aristaeomorpha foliacea
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,deep-water rose shrimp,2019,300,13792.6,2767,0.18,,Parapenaeus longirostris
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,Norway lobster,2019,300,13792.6,560.6,0.18,,Nephrops norvegicus
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,blue and red shrimp,2019,300,13792.6,1258,0.18,,Aristeus antennatus
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,non-target species,2019,300,13792.6,NA,0.18,,
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,black-bellied anglerfish,2019,11,14358,669,0.13,,Lophius budegassa
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,hake,2019,11,14358,11800,0.13,,Merluccius merluccius
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,four-spot megrim,2019,11,14358,742,0.13,,Lepidorhombus boscii
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,megrim,2019,11,14358,239,0.13,,Lepidorhombus whiffiagonis
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,white anglerfish,2019,11,14358,908,0.13,,Lophius piscatorius
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,non-target species,2019,11,14358,NA,0.13,,
+7,EU North Atlantic,Baltic Sea mixed fishery,cod,2019,17,600036,14486,0.01,,Gadus morhua
+7,EU North Atlantic,Baltic Sea mixed fishery,flounder,2019,17,600036,12624,0.01,,Platichthys flesus
+7,EU North Atlantic,Baltic Sea mixed fishery,herring,2019,17,600036,258779,0.01,,Clupea harengus
+7,EU North Atlantic,Baltic Sea mixed fishery,sprat,2019,17,600036,314147,0.01,,Sprattus sprattus
+7,EU North Atlantic,Baltic Sea mixed fishery,non-target species,2019,17,600036,NA,0.01,,
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,black anglerfish,2019,14,37737,3145,0.11,,Lophius budegassa
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,seabass,2019,14,37737,1887,0.11,,Dicentrarchus labrax
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,hake,2019,14,37737,18764,0.11,,Merluccius merluccius
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,horse mackerel,2019,14,37737,524,0.11,,Trachurus trachurus
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,mackerel,2019,14,37737,839,0.11,,Scomber scombrus
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,megrim,2019,14,37737,2201,0.11,,Lepidorhombus whiffiagonis
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,white anglerfish,2019,14,37737,2201,0.11,,Lophius piscatorius
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,Norway lobster,2019,14,37737,2411,0.11,,Nephrops norvegicus
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,thornback ray,2019,14,37737,210,0.11,,Raja clavata
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,cuckoo ray,2019,14,37737,105,0.11,,Leucoraja naevus
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,undulate ray,2019,14,37737,105,0.11,,Raja undulata
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,smooth-hound,2019,14,37737,629,0.11,,Mustelus spp.
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,sole,2019,14,37737,3459,0.11,,Solea solea
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,whiting,2019,14,37737,1258,0.11,,Merlangius merlangus
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,non-target species,2019,14,37737,NA,0.11,,
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,cod,2019,7,56804,1051,0.14,,Gadus morhua
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,haddock,2019,7,56804,7656,0.14,,Lepidorhombus boscii
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,whiting,2019,7,56804,5542,0.14,,Merlangius merlangus
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,megrim,2019,7,56804,12164,0.14,,Lepidorhombus whiffiagonis
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,white anglerfish,2019,7,56804,21266,0.14,,Lophius piscatorius
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,sole,2019,7,56804,1068,0.14,,solea solea
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,Norway lobster,2019,7,56804,7991,0.14,,Nephrops norvegicus
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,non-target species,2019,7,56804,NA,0.14,,
+10,EU North Atlantic,North Sea demersal mixed fishery,cod,2019,9,285385,31505,0.13,,Gadus morhua
+10,EU North Atlantic,North Sea demersal mixed fishery,haddock,2019,9,285385,26003,0.13,,Melanogrammus aeglefinus
+10,EU North Atlantic,North Sea demersal mixed fishery,plaice,2019,9,285385,42210,0.13,,Pleuronectes platessa
+10,EU North Atlantic,North Sea demersal mixed fishery,saithe,2019,9,285385,87473,0.13,,Pollachius virens
+10,EU North Atlantic,North Sea demersal mixed fishery,sole,2019,9,285385,8647,0.13,,Solea solea
+10,EU North Atlantic,North Sea demersal mixed fishery,turbot,2019,9,285385,3100,0.13,,Scophthalmus maximus
+10,EU North Atlantic,North Sea demersal mixed fishery,whiting,2019,9,285385,17419,0.13,,Merlangius merlangus
+10,EU North Atlantic,North Sea demersal mixed fishery,witch,2019,9,285385,2580,0.13,,Glyptocephalus cynoglossus
+10,EU North Atlantic,North Sea demersal mixed fishery,Norway lobster,2019,9,285385,19652,0.13,,Nephrops norvegicus
+10,EU North Atlantic,North Sea demersal mixed fishery,dab,2019,9,285385,5053,0.13,,Limanda limanda
+10,EU North Atlantic,North Sea demersal mixed fishery,lemon sole,2019,9,285385,32238,0.13,,Microstomus kitt
+10,EU North Atlantic,North Sea demersal mixed fishery,red mullet,2019,9,285385,4044,0.13,,Mullus surmuletus
+10,EU North Atlantic,North Sea demersal mixed fishery,flounder,2019,9,285385,1668,0.13,,Platichthys flesus
+10,EU North Atlantic,North Sea demersal mixed fishery,grey gurnard,2019,9,285385,1621,0.13,,Eutrigla gurnardus
+10,EU North Atlantic,North Sea demersal mixed fishery,brill,2019,9,285385,2172,0.13,,Scophthalmus rhombus
+10,EU North Atlantic,North Sea demersal mixed fishery,hake,2019,9,285385,NA,0.13,,Merluccius merluccius
+10,EU North Atlantic,North Sea demersal mixed fishery,non-target species,2019,9,285385,NA,0.13,,
+11,US,Bering Sea and Aleutian Island groundfish fishery,walleye pollock,2019,147,1936281,1410898,NA,,Gadus chalcogrammus
+11,US,Bering Sea and Aleutian Island groundfish fishery,Pacific cod,2019,147,1936281,177033,NA,,Gadus macrocephalus
+11,US,Bering Sea and Aleutian Island groundfish fishery,sablefish,2019,147,1936281,3820,NA,,Anoplopoma fimbria
+11,US,Bering Sea and Aleutian Island groundfish fishery,yellowfin sole,2019,147,1936281,128051,NA,,
+11,US,Bering Sea and Aleutian Island groundfish fishery,Greenland turbot,2019,147,1936281,2849,NA,,
+11,US,Bering Sea and Aleutian Island groundfish fishery,arrowtooth flounder,2019,147,1936281,10052,NA,,Atheresthes stomias
+11,US,Bering Sea and Aleutian Island groundfish fishery,Kamchatka flounder,2019,147,1936281,4487,NA,,
+11,US,Bering Sea and Aleutian Island groundfish fishery,Northern rock sole,2019,147,1936281,25721,NA,,
+11,US,Bering Sea and Aleutian Island groundfish fishery,flathead sole,2019,147,1936281,15858,NA,,
+11,US,Bering Sea and Aleutian Island groundfish fishery,Alaska plaice,2019,147,1936281,16163,NA,,
+11,US,Bering Sea and Aleutian Island groundfish fishery,other flatfish,2019,147,1936281,3765,NA,,
+11,US,Bering Sea and Aleutian Island groundfish fishery,Pacific ocean perch,2019,147,1936281,43119,NA,,Sebastes alutus
+11,US,Bering Sea and Aleutian Island groundfish fishery,Northern rockfish,2019,147,1936281,9059,NA,,Sebastes polyspinis
+11,US,Bering Sea and Aleutian Island groundfish fishery,rougheye and blacspotted rock fish,2019,147,1936281,391,NA,,
+11,US,Bering Sea and Aleutian Island groundfish fishery,shortraker rockfish,2019,147,1936281,380,NA,,Sebastes borealis
+11,US,Bering Sea and Aleutian Island groundfish fishery,other rockfish,2019,147,1936281,1266,NA,,
+11,US,Bering Sea and Aleutian Island groundfish fishery,atka mackerel,2019,147,1936281,57209,NA,,Pleurogrammus monopterygius
+11,US,Bering Sea and Aleutian Island groundfish fishery,skates,2019,147,1936281,20139,NA,,
+11,US,Bering Sea and Aleutian Island groundfish fishery,sharks,2019,147,1936281,151,NA,,
+11,US,Bering Sea and Aleutian Island groundfish fishery,octopus,2019,147,1936281,268,NA,,
+11,US,Bering Sea and Aleutian Island groundfish fishery,non-target species,2019,147,1936281,5602,NA,,
+12,US,Gulf of Alaska groundfish fishery,walleye pollock,2020,141,213963,117261,NA,,Gadus chalcogrammus
+12,US,Gulf of Alaska groundfish fishery,Pacific cod,2020,141,213963,11214,NA,,Gadus macrocephalus
+12,US,Gulf of Alaska groundfish fishery,sablefish,2020,141,213963,12759,NA,,Anoplopoma fimbria
+12,US,Gulf of Alaska groundfish fishery,shallow water flatfish,2020,141,213963,2867,NA,,
+12,US,Gulf of Alaska groundfish fishery,deep water flatfish,2020,141,213963,109,NA,,
+12,US,Gulf of Alaska groundfish fishery,rex sole,2020,141,213963,1612,NA,,Glyptocephalus zachirus
+12,US,Gulf of Alaska groundfish fishery,arrowtooth flounder,2020,141,213963,24586,NA,,Atheresthes stomias
+12,US,Gulf of Alaska groundfish fishery,flathead sole,2020,141,213963,2667,NA,,Hippoglossoides elassodon
+12,US,Gulf of Alaska groundfish fishery,Pacific ocean perch,2020,141,213963,25470,NA,,Sebastes alutus
+12,US,Gulf of Alaska groundfish fishery,Northern rockfish,2020,141,213963,2748,NA,,Sebastes polyspinis
+12,US,Gulf of Alaska groundfish fishery,shortraker rockfish,2020,141,213963,702,NA,,Sebastes borealis
+12,US,Gulf of Alaska groundfish fishery,dusky rockfish,2020,141,213963,2491,NA,,Sebastes ciliatus
+12,US,Gulf of Alaska groundfish fishery,rougheye and blacspotted rock fish,2020,141,213963,748,NA,,
+12,US,Gulf of Alaska groundfish fishery,demersal shelf rockfish,2020,141,213963,140,NA,,
+12,US,Gulf of Alaska groundfish fishery,thornyhead rockfish,2020,141,213963,777,NA,,Sebastolobus alascanus
+12,US,Gulf of Alaska groundfish fishery,other rockfish,2020,141,213963,957,NA,,
+12,US,Gulf of Alaska groundfish fishery,atka mackerel,2020,141,213963,1254,NA,,Pleurogrammus monopterygius
+12,US,Gulf of Alaska groundfish fishery,skates,2020,141,213963,3267,NA,,
+12,US,Gulf of Alaska groundfish fishery,sharks,2020,141,213963,1998,NA,,
+12,US,Gulf of Alaska groundfish fishery,octopus,2020,141,213963,336,NA,,
+12,US,Gulf of Alaska groundfish fishery,non-target species,2020,141,213963,NA,NA,,
+13,US,Gulf of Mexico reef fish fishery,gray triggerfish,2019,31,5608.61,28.29,NA,,
+13,US,Gulf of Mexico reef fish fishery,greater amberjack,2019,31,5608.61,161.86,NA,,
+13,US,Gulf of Mexico reef fish fishery,other jacks,2019,31,5608.61,18.77,NA,,
+13,US,Gulf of Mexico reef fish fishery,hogfish,2019,31,5608.61,4.75,NA,,
+13,US,Gulf of Mexico reef fish fishery,tilefish,2019,31,5608.61,191.84,NA,,
+13,US,Gulf of Mexico reef fish fishery,gag grouper,2019,31,5608.61,241.32,NA,,
+13,US,Gulf of Mexico reef fish fishery,deep water grouper complex,2019,31,5608.61,452.08,NA,,
+13,US,Gulf of Mexico reef fish fishery,shallow water grouper complex,2019,31,5608.61,63.72,NA,,
+13,US,Gulf of Mexico reef fish fishery,cubera snapper,2019,31,5608.61,0.75,NA,,
+13,US,Gulf of Mexico reef fish fishery,grey snapper,2019,31,5608.61,51.72,NA,,
+13,US,Gulf of Mexico reef fish fishery,lane snapper,2019,31,5608.61,10.91,NA,,
+13,US,Gulf of Mexico reef fish fishery,mutton snapper,2019,31,5608.61,62.94,NA,,
+13,US,Gulf of Mexico reef fish fishery,red snapper,2019,31,5608.61,3473.71,NA,,
+13,US,Gulf of Mexico reef fish fishery,vermilion snapper,2019,31,5608.61,582.25,NA,,
+13,US,Gulf of Mexico reef fish fishery,yellowtail snapper,2019,31,5608.61,239.1,NA,,
+13,US,Gulf of Mexico reef fish fishery,mid-water snapper complex,2019,31,5608.61,24.6,NA,,
+13,US,Gulf of Mexico reef fish fishery,non-target species,2019,31,5608.61,NA,NA,,
+14,US,Gulf of Mexico shrimp fishery,Brown shrimp,2018,190,65231.1,28630.7,NA,,Farfantepenaeus aztecus
+14,US,Gulf of Mexico shrimp fishery,White shrimp,2018,190,65231.1,32046.2,NA,,Litopenaeus setiferus
+14,US,Gulf of Mexico shrimp fishery,Pink shrimp,2018,190,65231.1,4503,NA,,Farfantepenaeus duorarum
+14,US,Gulf of Mexico shrimp fishery,Royal red shrimp,2018,190,65231.1,51.2,NA,,Doryteuthis opalescens
+14,US,Gulf of Mexico shrimp fishery,non-target species,2018,190,65231.1,NA,NA,,
+15,US,Northeast groundfish fishery,cod,2018,NA,38164.4,1432,0.05,,Gadus morhua
+15,US,Northeast groundfish fishery,haddock,2018,NA,38164.4,21810.4,0.05,,Melanogrammus aeglefinus
+15,US,Northeast groundfish fishery,yellowtail flounder,2018,NA,38164.4,335,0.05,,Limanda ferruginea
+15,US,Northeast groundfish fishery,American plaice,2018,NA,38164.4,1192,0.05,,Hippoglossoides platessoides
+15,US,Northeast groundfish fishery,witch flounder,2018,NA,38164.4,722,0.05,,Glyptocephalus cynoglossus
+15,US,Northeast groundfish fishery,winter flounder,2018,NA,38164.4,1161,0.05,,Pseudopleuronectes americanus
+15,US,Northeast groundfish fishery,Acadian redfish,2018,NA,38164.4,4568,0.05,,Sebastes fasciatus
+15,US,Northeast groundfish fishery,white hake,2018,NA,38164.4,2009,0.05,,Urophycis tenuis
+15,US,Northeast groundfish fishery,pollock,2018,NA,38164.4,4779,0.05,,Pollachius virens
+15,US,Northeast groundfish fishery,Atlantic halibut,2018,NA,38164.4,156,0.05,,Hippoglossus hippoglossus
+15,US,Northeast groundfish fishery,non-target species,2018,NA,38164.4,NA,0.05,,
+16,US,Pacific Coast groundfish fishery,Arrowtooth flounder,2009-2019,>100,129827,1559,NA,,Atheresthes stomias
+16,US,Pacific Coast groundfish fishery,Dover sole,2009-2019,>100,129827,7365,NA,,Microstomus pacificus
+16,US,Pacific Coast groundfish fishery,English sole,2009-2019,>100,129827,259,NA,,Parophrys vetulus
+16,US,Pacific Coast groundfish fishery,Lingcod,2009-2019,>100,129827,514,NA,,Ophiodon elongatus
+16,US,Pacific Coast groundfish fishery,Pacific cod,2009-2019,>100,129827,409,NA,,Gadus macrocephalus
+16,US,Pacific Coast groundfish fishery,Pacific whiting,2009-2019,>100,129827,101697,NA,,Mercluccius productus
+16,US,Pacific Coast groundfish fishery,Petrale sole,2009-2019,>100,129827,2157,NA,,Eopsetta jordani
+16,US,Pacific Coast groundfish fishery,Sablefish,2009-2019,>100,129827,5380,NA,,Anoplopoma fimbria
+16,US,Pacific Coast groundfish fishery,Thornyheads,2009-2019,>100,129827,1786,NA,,Sebastolobus alascanus
+16,US,Pacific Coast groundfish fishery,Rockfish,2009-2019,>100,129827,6382,NA,,
+16,US,Pacific Coast groundfish fishery,other flatfish,2009-2019,>100,129827,716,NA,,
+16,US,Pacific Coast groundfish fishery,other groundfish,2009-2019,>100,129827,1486,NA,,
+16,US,Pacific Coast groundfish fishery,other roundfish,2009-2019,>100,129827,117,NA,,
+17,US,South Atlantic snapper-grouper fishery,shallow water grouper complex,2019,55,2175.02,7.19,NA,,
+17,US,South Atlantic snapper-grouper fishery,gag,2019,55,2175.02,112.37,NA,,
+17,US,South Atlantic snapper-grouper fishery,red grouper,2019,55,2175.02,12.77,NA,,
+17,US,South Atlantic snapper-grouper fishery,scamp,2019,55,2175.02,29.8,NA,,
+17,US,South Atlantic snapper-grouper fishery,black grouper,2019,55,2175.02,34.96,NA,,
+17,US,South Atlantic snapper-grouper fishery,snowy grouper,2019,55,2175.02,70.03,NA,,
+17,US,South Atlantic snapper-grouper fishery,deep water complex,2019,55,2175.02,23.43,NA,,
+17,US,South Atlantic snapper-grouper fishery,black sea bass,2019,55,2175.02,43.03,NA,,
+17,US,South Atlantic snapper-grouper fishery,snappers complex,2019,55,2175.02,40.94,NA,,
+17,US,South Atlantic snapper-grouper fishery,yellowtail snapper,2019,55,2175.02,636.67,NA,,
+17,US,South Atlantic snapper-grouper fishery,mutton snapper,2019,55,2175.02,34.56,NA,,
+17,US,South Atlantic snapper-grouper fishery,Vermilion snapper,2019,55,2175.02,371.43,NA,,
+17,US,South Atlantic snapper-grouper fishery,red snapper,2019,55,2175.02,60.89,NA,,
+17,US,South Atlantic snapper-grouper fishery,porgy complex,2019,55,2175.02,7.34,NA,,
+17,US,South Atlantic snapper-grouper fishery,red porgy,2019,55,2175.02,38.54,NA,,
+17,US,South Atlantic snapper-grouper fishery,grunts complex,2019,55,2175.02,27.78,NA,,
+17,US,South Atlantic snapper-grouper fishery,jacks complex,2019,55,2175.02,66.76,NA,,
+17,US,South Atlantic snapper-grouper fishery,greater amberjack,2019,55,2175.02,186.62,NA,,
+17,US,South Atlantic snapper-grouper fishery,bar jack,2019,55,2175.02,1.63,NA,,
+17,US,South Atlantic snapper-grouper fishery,golden tilefish,2019,55,2175.02,154.41,NA,,
+17,US,South Atlantic snapper-grouper fishery,blueline tilefish,2019,55,2175.02,52.58,NA,,
+17,US,South Atlantic snapper-grouper fishery,gray triggerfish,2019,55,2175.02,141.95,NA,,
+17,US,South Atlantic snapper-grouper fishery,hogfish,2019,55,2175.02,8.84,NA,,
+17,US,South Atlantic snapper-grouper fishery,Atlantic spadefish,2019,55,2175.02,10.6,NA,,
+18,US,West Coast coastal pelagic species fishery,Pacific sardine,2018,>30,91199.4,372,0.01,,Sardinops sagax
+18,US,West Coast coastal pelagic species fishery,Pacific chub mackerel,2018,>30,91199.4,11487.2,0.01,,Scomber japonicas
+18,US,West Coast coastal pelagic species fishery,Northern anchovy,2018,>30,91199.4,17525.2,0.01,,Engraulis mordax
+18,US,West Coast coastal pelagic species fishery,market squid,2018,>30,91199.4,61609,0.01,,Doryteuthis opalescens
+18,US,West Coast coastal pelagic species fishery,jack mackerel,2018,>30,91199.4,206,0.01,,Trachurus symmetricus
+19,miscellaneous,Canada Pacific Region groundfish fishery,arrowtooth flounder,2019,70,141272,7649,NA,,Atheresthes stomias
+19,miscellaneous,Canada Pacific Region groundfish fishery,big skate,2019,70,141272,201,NA,,Beringraja binoculata
+19,miscellaneous,Canada Pacific Region groundfish fishery,bocaccio,2019,70,141272,133,NA,,Sebastes paucispini
+19,miscellaneous,Canada Pacific Region groundfish fishery,canary rockfish,2019,70,141272,787,NA,,Sebastes pinniger
+19,miscellaneous,Canada Pacific Region groundfish fishery,"copper, china & tiger rockfish",2019,70,141272,43,NA,,
+19,miscellaneous,Canada Pacific Region groundfish fishery,dover sole,2019,70,141272,1277,NA,,Microstomus pacificus
+19,miscellaneous,Canada Pacific Region groundfish fishery,English sole,2019,70,141272,491,NA,,Parophrys vetulus
+19,miscellaneous,Canada Pacific Region groundfish fishery,halibut,2019,70,141272,2437,NA,,Hippoglossus hippoglossus
+19,miscellaneous,Canada Pacific Region groundfish fishery,lingcod,2019,70,141272,951,NA,,Ophiodon elongatus
+19,miscellaneous,Canada Pacific Region groundfish fishery,long nose skate,2019,70,141272,152,NA,,Raja rhina
+19,miscellaneous,Canada Pacific Region groundfish fishery,longspine thornyheads,2019,70,141272,31,NA,,Sebastolobus altivelis
+19,miscellaneous,Canada Pacific Region groundfish fishery,pacific cod,2019,70,141272,500,NA,,Gadus macrocephalus
+19,miscellaneous,Canada Pacific Region groundfish fishery,Pacific hake,2019,70,141272,100936,NA,,Merluccius productus
+19,miscellaneous,Canada Pacific Region groundfish fishery,Pacific Ocean perch,2019,70,141272,3761,NA,,Sebastes alutus
+19,miscellaneous,Canada Pacific Region groundfish fishery,petrale sole,2019,70,141272,541,NA,,Eopsetta jordani
+19,miscellaneous,Canada Pacific Region groundfish fishery,quillback rockfish,2019,70,141272,106,NA,,Sebastes maliger
+19,miscellaneous,Canada Pacific Region groundfish fishery,redbanded rockfish,2019,70,141272,339,NA,,Sebastes babcocki
+19,miscellaneous,Canada Pacific Region groundfish fishery,redstripe rockfish,2019,70,141272,873,NA,,Sebastes proriger
+19,miscellaneous,Canada Pacific Region groundfish fishery,rock sole,2019,70,141272,153,NA,,Lepidopsetta bilineata
+19,miscellaneous,Canada Pacific Region groundfish fishery,rougheye rockfish,2019,70,141272,901,NA,,Sebastes aleutianus
+19,miscellaneous,Canada Pacific Region groundfish fishery,sablefish,2019,70,141272,2300,NA,,Anoplopoma fimbria
+19,miscellaneous,Canada Pacific Region groundfish fishery,shortraker rockfish,2019,70,141272,132,NA,,Sebastes borealis
+19,miscellaneous,Canada Pacific Region groundfish fishery,shortspine thornyheads,2019,70,141272,320,NA,,Sebastolobus alascanus
+19,miscellaneous,Canada Pacific Region groundfish fishery,silvergray rockfish,2019,70,141272,1765,NA,,Sebastes brevispinis
+19,miscellaneous,Canada Pacific Region groundfish fishery,spiny dogfish,2019,70,141272,285,NA,,Squalus suckleyi
+19,miscellaneous,Canada Pacific Region groundfish fishery,walleye pollock,2019,70,141272,7252,NA,,Thragra chalcogramma
+19,miscellaneous,Canada Pacific Region groundfish fishery,widow rockfish,2019,70,141272,1803,NA,,Sebastes entomelas
+19,miscellaneous,Canada Pacific Region groundfish fishery,yellow rockfish,2019,70,141272,3617,NA,,Sebastes flavidus
+19,miscellaneous,Canada Pacific Region groundfish fishery,yelloweye rockfish,2019,70,141272,52,NA,,Sebastes ruberrimus
+19,miscellaneous,Canada Pacific Region groundfish fishery,yellowmouth rockfish,2019,70,141272,1488,NA,,Sebastes reedi
+19,miscellaneous,Canada Pacific Region groundfish fishery,non-target species,2019,70,141272,NA,NA,,
+20,miscellaneous,China-Shandong mixed fishery,largehead hairtail,2018,83,2000000,64700,NA,,Trichiurus lepturus
+20,miscellaneous,China-Shandong mixed fishery,Japanese anchovy,2018,83,2000000,392300,NA,,Engraulis japonicus
+20,miscellaneous,China-Shandong mixed fishery,Japanese Spanish mackerel,2018,83,2000000,105500,NA,,Scomberomorus niphonius
+20,miscellaneous,China-Shandong mixed fishery,small yellow croaker,2018,83,2000000,14000,NA,,Larimichthys polyactis
+20,miscellaneous,China-Shandong mixed fishery,silver pomfret,2018,83,2000000,18600,NA,,Pampus argenteus
+20,miscellaneous,China-Shandong mixed fishery,white-spotted conger,2018,83,2000000,33500,NA,,Conger myriaster
+20,miscellaneous,China-Shandong mixed fishery,flatfish,2018,83,2000000,8100,NA,,Pleuronectiformes
+20,miscellaneous,China-Shandong mixed fishery,chub mackerel,2018,83,2000000,25300,NA,,Scomber japonicus
+20,miscellaneous,China-Shandong mixed fishery,Pacific sandlance,2018,83,2000000,32100,NA,,Ammodytes personatus
+20,miscellaneous,China-Shandong mixed fishery,mantis shrimp,2018,83,2000000,18900,NA,,Oratosquilla oratoria
+20,miscellaneous,China-Shandong mixed fishery,prawn,2018,83,2000000,10900,NA,,Trachysalambria curvirostris
+20,miscellaneous,China-Shandong mixed fishery,Chinese white shrimp,2018,83,2000000,2200,NA,,Fenneropenaeus chinensis
+20,miscellaneous,China-Shandong mixed fishery,gazami crab,2018,83,2000000,12100,NA,,Portunus trituberculatus
+20,miscellaneous,China-Shandong mixed fishery,octopus,2018,83,2000000,19900,NA,,Octopodidae.
+20,miscellaneous,China-Shandong mixed fishery,jellyfish,2018,83,2000000,13800,NA,,Medusozoa.
+20,miscellaneous,China-Shandong mixed fishery,non-target species,2018,83,2000000,NA,NA,,
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,goldband snapper,2018,300,100000,18650,NA,,Pristipomoides multidens
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,rusty jobfish,2018,300,100000,9440,NA,,Aphareus rutilans
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,red-tailed opakapaka,2018,300,100000,9260,NA,,Pristipomoides typus
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,ruby snapper,2018,300,100000,8980,NA,,Etelis sp. (Undescribed)
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,malabar snapper,2018,300,100000,45270,NA,,Lutjanus malabaricus
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,goldband snapper,2018,300,100000,22520,NA,,Pristipomoides multidens
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,red emperor snapper,2018,300,100000,4180,NA,,Lutjanus sebae
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,red-tailed opakapaka,2018,300,100000,3310,NA,,Pristipomoides typus
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,grass emperor,2018,300,100000,3570,NA,,Lethrinus laticaudis
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,non-target species,2018,300,100000,74820,NA,,
+22,miscellaneous,Northern Brazil-Guianas Shelf shrimp and groundfish fishery,seabob,2017,>50,180000,30000,NA,,Xiphopenaeus kroyeri
+22,miscellaneous,Northern Brazil-Guianas Shelf shrimp and groundfish fishery,penaied shrimp,2017,>50,180000,30000,NA,,
+22,miscellaneous,Northern Brazil-Guianas Shelf shrimp and groundfish fishery,groundfish,2017,>50,180000,118000,NA,incomplete,
+22,miscellaneous,Northern Brazil-Guianas Shelf shrimp and groundfish fishery,Southern red snapper,2017,>50,180000,12000,NA,incomplete,
+22,miscellaneous,Northern Brazil-Guianas Shelf shrimp and groundfish fishery,non-target species,2017,>50,180000,NA,NA,,
+23,miscellaneous,Northern Chile small pelagic fishery,anchovy,2019,52,599844,524989,NA,,Engraulis ringens
+23,miscellaneous,Northern Chile small pelagic fishery,mackerel,2019,52,599844,55582,NA,,Scomber japonicus
+23,miscellaneous,Northern Chile small pelagic fishery,jack mackerel,2019,52,599844,14568,NA,,Trachurus murphyi
+23,miscellaneous,Northern Chile small pelagic fishery,sardine,2019,52,599844,606,NA,,Sardinops sagax
+23,miscellaneous,Northern Chile small pelagic fishery,non-target species,2019,52,599844,4099,NA,,
+24,miscellaneous,South African small pelagic fishery,sardine,2019,7,223779,5606,NA,,Sardinops sagax
+24,miscellaneous,South African small pelagic fishery,anchovy,2019,7,223779,166232,NA,,Engraulis encrasicolus
+24,miscellaneous,South African small pelagic fishery,round herring,2019,7,223779,47414,NA,,Etrumeus whiteheadi
+24,miscellaneous,South African small pelagic fishery,non-target species,2019,7,223779,4527,NA,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

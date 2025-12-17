@@ -1,0 +1,437 @@
+code,region,case,reference,original keywords,summarized keywords,topic,No. reference,No. keywords
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Dichmont et al., 2016",risk,risk,objective,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Dichmont et al., 2017",Atlantis,Atlantis,modeling,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Dichmont et al., 2017",risk equivalency,risk,objective,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Dowling et al., 2016",risk,risk,objective,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,Emery et al. 2019,electronic monitoring,electronic monitoring,monitoring,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Fulton et al., 2016",risk equivalency,risk,objective,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Fulton et al., 2019",Atlantis,Atlantis,modeling,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Fulton et al., 2019",EBM,EBM,ecosystem consideration,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Fulton et al., 2019",risk equivalency,risk,objective,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Jennings et al., 2016",climate change impacts,climate change,environmental consideration,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Jennings et al., 2016",management objectives,objectives,objective,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Pascoe et al., 2020",multispecies MEY,MMEY,objective,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Pascoe et al., 2016",bioeconomic model,bioeconomic model,modeling,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Pascoe et al., 2020",bioeconomic model,bioeconomic model,modeling,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Dichmont et al., 2016",HCR,harvest control rule,management policy/strategy,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Dichmont et al., 2017",harvest strategy,harvest strategy,management policy/strategy,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Fulton et al., 2016",harvest strategy,harvest strategy,management policy/strategy,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Fulton et al., 2019",harvest strategy,harvest strategy,management policy/strategy,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Pascoe et al., 2020",harvest strategy,harvest strategy,management policy/strategy,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Nichols et al., 2021",MPA,MPA/spatial management,management policy/strategy,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Jennings et al., 2016",management adaptation actions,regulatory change,management policy/strategy,10,22
+1,Australia,South and Eastern Scalefish and Shark Fishery,"Dowling et al., 2016",tier system,tier system,management policy/strategy,10,22
+2,Australia,Northern Prawn Fishery,"Campbell et al., 2020",turtle excluder device,bycatch reduction,"bycatch, discard, and selectivity",9,19
+2,Australia,Northern Prawn Fishery,"Campbell et al., 2020",discards,discard,"bycatch, discard, and selectivity",9,19
+2,Australia,Northern Prawn Fishery,"Dambacher et al., 2015",EBM,EBM,ecosystem consideration,9,19
+2,Australia,Northern Prawn Fishery,"Dambacher et al., 2015",recruitment,recruitment,population dynamics,9,19
+2,Australia,Northern Prawn Fishery,"Dambacher et al., 2015",environmental factor,environmental effect,environmental consideration,9,19
+2,Australia,Northern Prawn Fishery,"Farmery et al., 2015",environmental impact,environmental effect,environmental consideration,9,19
+2,Australia,Northern Prawn Fishery,"Gourguet et al., 2016",co-viability,co-viability,objective,9,19
+2,Australia,Northern Prawn Fishery,"Gourguet et al., 2016",bioeconomic model,bioeconomic model,modeling,9,19
+2,Australia,Northern Prawn Fishery,"Pascoe et al., 2016b",MEY,MEY,objective,9,19
+2,Australia,Northern Prawn Fishery,"Pascoe et al., 2017",multiple objectives,multi-objective,objective,9,19
+2,Australia,Northern Prawn Fishery,"Whittock et al., 2016",turtles's exposure to fishery,bycatch,"bycatch, discard, and selectivity",9,19
+2,Australia,Northern Prawn Fishery,"Pascoe et al., 2016a",bioeconomic model,bioeconomic model,modeling,9,19
+2,Australia,Northern Prawn Fishery,"Pascoe et al., 2016b",bioeconomic model,bioeconomic model,modeling,9,19
+2,Australia,Northern Prawn Fishery,"Farmery et al., 2017",Naturalness Degradation Indicator,diversity indicator,performance indicator,9,19
+2,Australia,Northern Prawn Fishery,"Dambacher et al., 2015",fishery dynamics,fleet dynamics,fleet dynamics and fishing behavior,9,19
+2,Australia,Northern Prawn Fishery,"Farmery et al., 2015",life cycle assessment,life cycle assessment,modeling,9,19
+2,Australia,Northern Prawn Fishery,"Farmery et al., 2017",life cycle assessment,life cycle assessment,modeling,9,19
+2,Australia,Northern Prawn Fishery,"Pascoe et al., 2016b",fishing effort,fishing effort,fleet dynamics and fishing behavior,9,19
+2,Australia,Northern Prawn Fishery,"Pascoe et al., 2017",social and economic relationship,socioeconomics,socio-economic consideration,9,19
+3,Australia,North West Slope Trawl Fishery,"Whittock et al., 2016",turtles's exposure to fishery,bycatch,"bycatch, discard, and selectivity",1,1
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Bonanomi et al., 2018",bycatch,bycatch,"bycatch, discard, and selectivity",14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Farriols et al., 2017",bottom trawl impacts,bottom trawl impacts,fishing impact,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Lucchetti et al., 2015",bycatch interaction index,bycatch estimation,"bycatch, discard, and selectivity",14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Lucchetti et al., 2017",bycatch estimation,bycatch estimation,"bycatch, discard, and selectivity",14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Lucchetti et al., 2019",bycatch reduction,bycatch reduction,"bycatch, discard, and selectivity",14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Mion et al., 2015",electronic logbook,electronic logbook,monitoring,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Russo et al., 2015",VMS,VMS,monitoring,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Russo et al., 2018",VMS,VMS,monitoring,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Zorica et al., 2019",predator,trophic interaction,ecosystem consideration,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Bastardie et al., 2017",bioeconomic model,bioeconomic model,modeling,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Carpi et al., 2017",Common Fisheries Policy,Common Fisheries Policy,management policy/strategy,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Farriols et al., 2017",diversity indices,diversity indicator,performance indicator,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Rossetto et al., 2015",decision-making,decision-making,management policy/strategy,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Mulazzani et al., 2018",transferable effort quotas,effort management,management policy/strategy,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Russo et al., 2015",fishing activity,fishing behavior,fleet dynamics and fishing behavior,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Russo et al., 2015",non-cooperative game,non-cooperative game,modeling,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Lucchetti et al., 2018",gear use,fishing behavior,fleet dynamics and fishing behavior,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Lucchetti et al., 2018",regulatory provisions,management plan,management policy/strategy,14,19
+4,EU Mediterranean and Black Sea,Adriatic Sea mixed fishery,"Bastardie et al., 2017",spatial management,MPA/spatial management,management policy/strategy,14,19
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Quetgals et al.,  2017",bioeconomic analysis,bioeconomic model,modeling,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Sole et al., 2020",bioeconomic analysis,bioeconomic model,modeling,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Carbonell et al., 2018",discards,discard,"bycatch, discard, and selectivity",17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Cort??s and Gonz??lez-Sol??s, 2018",bycatch mitigation,bycatch reduction,"bycatch, discard, and selectivity",17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Cort??s et al., 2017",susceptibility to capture,selectivity,"bycatch, discard, and selectivity",17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Farriols et al., 2017",bottom trawl impacts,bottom trawl impacts,fishing impact,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Guijarro et al., 2017",fishing impact,fishing impact,fishing impact,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Martin et al., 2019",bioeconomic model,bioeconomic model,modeling,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Maynou, 2019",co-viability,co-viability,objective,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Merino et al., 2015",objectives,objectives,objective,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Maynou, 2019",bioeconomic model,bioeconomic model,modeling,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Quetglas et al., 2016",bioeconomic model,bioeconomic model,modeling,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Quetgals et al.,  2017",EAFM,EAFM,ecosystem consideration,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Samy-Kamal et al., 2015b",daily variation of fishing effort,spatial/temporal pattern ,fleet dynamics and fishing behavior,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Sola and Maynou, 2018",catch performance,selectivity,"bycatch, discard, and selectivity",17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Soriano-Redondo et al., 2016",seabird bycatch,bycatch,"bycatch, discard, and selectivity",17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Tsagarakis et al., 2017",discard info,discard,"bycatch, discard, and selectivity",17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Lizaso et al., 2020",European fisheries policy,Common Fisheries Policy,management policy/strategy,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Farriols et al., 2017",diversity indices,diversity indicator,performance indicator,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Martin et al., 2019",management alternatives,effort management,management policy/strategy,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Quetgals et al.,  2017",harvest strategy,harvest strategy,management policy/strategy,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Maynou, 2019",landing obligation,landing obligation,management policy/strategy,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Sole et al., 2020",multinannual plan,Multiannual Plan,management policy/strategy,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Quetglas et al., 2016",surplus production model,surplus production model,modeling,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Merino et al., 2015",socioeconomics,socioeconomics,socio-economic consideration,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Samy-Kamal et al., 2015a",seasonal closure,temporal management,management policy/strategy,17,27
+5,EU Mediterranean and Black Sea,Western Mediterranean demersal mixed fishery,"Samy-Kamal et al., 2015b",banning one day per week,temporal management,management policy/strategy,17,27
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,"Calado et al., 2021",seabird bycatch,bycatch,"bycatch, discard, and selectivity",7,11
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,"Gamito et al., 2016",climate change,climate change,environmental consideration,7,11
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,"Gascuel et al., 2016",fishing impact,fishing impact,fishing impact,7,11
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,"Gascuel et al., 2016",Good Environmental Status,Good Environmental Status,objective,7,11
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,"Goetz et al., 2015",cetacean-fishery interaction,bycatch,"bycatch, discard, and selectivity",7,11
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,"Leit?o et al., 2018",temperature rise,temperature,environmental consideration,7,11
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,"Quinz??n et al., 2020",oceanographic variability,oceanographic variability,environmental consideration,7,11
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,"Quinz??n et al., 2020",population dynamics,population dynamics,population dynamics,7,11
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,"Quinz??n et al., 2020",influence of fishing,fishing impact,fishing impact,7,11
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,"Gascuel et al., 2016",ecosystem indicators,ecosystem indicator,performance indicator,7,11
+6,EU North Atlantic,Atlantic Iberian Waters demersal mixed fishery,"Abad et al., 2020",spatial management measure,MPA/spatial management,management policy/strategy,7,11
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Briton et al., 2020",bioeconomic model,bioeconomic model,modeling,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Arroyo et al., 2019",Good Environmental Status,Good Environmental Status,objective,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Bentorcha et al., 2017",fishing impact,fishing impact,fishing impact,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Bourdaud et al., 2016",EAFM,EAFM,ecosystem consideration,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Boussarie et al., 2020",discarded invertebrates,discard,"bycatch, discard, and selectivity",23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Briton et al., 2020",co-viability,co-viability,objective,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Briton et al., 2020",MSY,MSY,objective,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Garcia et al., 2020",pretty good yield,pretty good yield,objective,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Gascuel et al., 2016",fishing impact,fishing impact,fishing impact,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Gascuel et al., 2016",ecosystem indicators,ecosystem indicator,performance indicator,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Gascuel et al., 2016",Good Environmental Status,Good Environmental Status,objective,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Lagarde et al., 2018",MMEY,MMEY,objective,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Lagarde et al., 2018",climate change,climate change,environmental consideration,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Le Floc'h et al., 2018",EBFM,EBFM,ecosystem consideration,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Mehault et al., 2020",escapement pattern,selectivity,"bycatch, discard, and selectivity",23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Merillet et al., 2017",discard survival,discard mortality,"bycatch, discard, and selectivity",23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Morfin et al., 2019",discard survival,discard mortality,"bycatch, discard, and selectivity",23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Mouchet et al., 2019",selectivity,selectivity,"bycatch, discard, and selectivity",23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Nikolic et al., 2015",bycatch reduction,bycatch reduction,"bycatch, discard, and selectivity",23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Peltier et al., 2020",dolphin stranding,bycatch,"bycatch, discard, and selectivity",23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Garcia et al., 2020",harvest control rule,harvest control rule,management policy/strategy,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Vogel et al., 2017",selectivity,selectivity,"bycatch, discard, and selectivity",23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Lagarde et al., 2018",bio-economic performance,economic performance,socio-economic consideration,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Chaalali et al., 2015",food web model,food web model,modeling,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Alzorriz et al., 2018",economic and and fishery indicators,indicators,performance indicator,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Tissiere et al., 2018",multi-disciplinary approach,economic performance,socio-economic consideration,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"I?arra et al., 2020",catch valorisation,profit,socio-economic consideration,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Peltier et al., 2020",fishing effort distribution,fishing effort,fleet dynamics and fishing behavior,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Alzorriz et al., 2018",landing obligation,landing obligation,management policy/strategy,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Prellezo et al., 2016",landing obligation,landing obligation,management policy/strategy,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Alzorriz et al., 2018",fleet dynamics,fleet dynamics,fleet dynamics and fishing behavior,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Le Floc'h et al., 2018",MPA,MPA/spatial management,management policy/strategy,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Provot et al., 2018",marine socio-ecosystem,socio-ecological system,socio-economic consideration,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Arroyo et al., 2019",Mean Trophic Level,trophic indicator,performance indicator,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Bentorcha et al., 2017",trophic model,trophic model,modeling,23,36
+8,EU North Atlantic,Bay of Biscay demersal mixed fishery,"Bourdaud et al., 2016",trophic indicators,trophic indicator,performance indicator,23,36
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Varela-Lafuente et al., 2019",Common Fisheries Policy,Common Fisheries Policy,management policy/strategy,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Varela-Lafuente et al., 2019",economic effects,economic effects,socio-economic consideration,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Dolder et al., 2018",fishery dynamics,fleet dynamics,fleet dynamics and fishing behavior,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Hernvann et al., 2020",Ecopath with Ecosim with Ecospace,Ecopath with Ecosim with Ecospace,modeling,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Bentorcha et al., 2017",fishing impact,fishing impact,fishing impact,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Gascuel et al., 2016",fishing impact,fishing impact,fishing impact,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Gascuel et al., 2016",ecosystem indicators,ecosystem indicator,performance indicator,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Gascuel et al., 2016",Good Environmental Status,Good Environmental Status,objective,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Hernvann and Gascuel, 2020",fish productivity,productivity,population dynamics,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Hernvann and Gascuel, 2020",environment impact,environmental effect,environmental consideration,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Hernvann and Gascuel, 2020",fishing impact,fishing impact,fishing impact,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Hernvann et al., 2020",climate change,climate change,environmental consideration,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Hernvann et al., 2020",fishing impact,fishing impact,fishing impact,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Mateo et al., 2017",VMS and logbook,VMS and logbook,monitoring,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Calderwood et al., 2020a",fishing tactics,fishing behavior,fleet dynamics and fishing behavior,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Calderwood et al., 2020b",fishing tactics,fishing behavior,fleet dynamics and fishing behavior,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Calderwood et al., 2021",fishing tactics,fishing behavior,fleet dynamics and fishing behavior,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Mateo et al., 2017",spatial pattern ,spatial/temporal pattern ,fleet dynamics and fishing behavior,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Dolder et al., 2018",joint dynamic species distribution modelling,spatial modeling,modeling,11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Moore et al., 2019",technical interaction,selectivity,"bycatch, discard, and selectivity",11,21
+9,EU North Atlantic,Celtic Sea demersal mixed fishery,"Bentorcha et al., 2017",trophic model,trophic model,modeling,11,21
+10,EU North Atlantic,North Sea demersal mixed fishery,"van Helmond et al., 2016",catch quota management,catch share/quota,management policy/strategy,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Pointin et al., 2019",avoidance behaviours,fishing behavior,fleet dynamics and fishing behavior,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Hintzen et al., 2019",distribution of fishing,spatial/temporal pattern ,fleet dynamics and fishing behavior,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Bartelings et al., 2015",bioeconomic model,bioeconomic model,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Goti-Aralucea et al., 2018",Common Fisheries Policy,Common Fisheries Policy,management policy/strategy,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Trifonova et al., 2017",dynamic Bayesian network model,dynamic Bayesian network model,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Pointin et al., 2019",economic impacts,economic effects,socio-economic consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"P??ts et al., 2020",EwE,EwE,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Simons et al., 2015",fishers behavior,fishing behavior,fleet dynamics and fishing behavior,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Romagnoni et al., 2015",EwE,EwE,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"van Helmond et al., 2016",fishing behavior,fishing behavior,fleet dynamics and fishing behavior,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"St?bler et al., 2016",EwE,EwE,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Thorpe, 2019",harvest control rule,harvest control rule,management policy/strategy,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Andersen et al., 2015",EAFM,EAFM,ecosystem consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Andersen et al., 2015",strategic objectives,objectives,objective,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Garc??a-Carreras et al., 2015",fishing mortality-effort relationship,fishing mortality-effort relationship,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Thorpe et al., 2019",harvest control rule,harvest control rule,management policy/strategy,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Batsleer et al., 2015",bycatch and discards,bycatch and discard,"bycatch, discard, and selectivity",58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Baudron and Fernandes, 2015",choke species,selectivity,"bycatch, discard, and selectivity",58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Gascuel et al., 2016",ecosystem indicators,ecosystem indicator,performance indicator,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Bourdaud et al., 2016",EAFM,EAFM,ecosystem consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Cook and Heath, 2017",bycatch,bycatch,"bycatch, discard, and selectivity",58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Fraser and Angus, 2019",selectivity,selectivity,"bycatch, discard, and selectivity",58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Cook and Heath, 2017",Landings-Survey-Discard model,Landings-Survey-Discard model,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Gascuel et al., 2016",fishing impact,fishing impact,fishing impact,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Gascuel et al., 2016",Good Environmental Status,Good Environmental Status,objective,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Goti-Aralucea et al., 2018",sustainability objectives,objectives,objective,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Heath and Cook, 2015",discards,discard,"bycatch, discard, and selectivity",58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Jacobsen et al., 2017",EBFM,EBFM,ecosystem consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Jacobsen et al., 2017",multi-objective,multi-objective,objective,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Kempf et al., 2016",multi-objective,multi-objective,objective,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Lockerbie et al., 2018",EAFM,EAFM,ecosystem consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Lockerbie et al., 2018",IndiSeas indicators,ecosystem indicator,performance indicator,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Lynam et al., 2017",food web,trophic interaction,ecosystem consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Moriaty et al., 2019",EBM,EBM,ecosystem consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Moriaty et al., 2019",survey data,survey data,monitoring,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Mortensen et al., 2017",discard reduction,discard reduction,"bycatch, discard, and selectivity",58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Mortensen et al., 2018",choke species,selectivity,"bycatch, discard, and selectivity",58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Piet et al., 2019",EBM,EBM,ecosystem consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Pointin et al., 2019",choke species,selectivity,"bycatch, discard, and selectivity",58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Pope, 2019",EBFM,EBFM,ecosystem consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Mortensen et al., 2017",profit,profit,socio-economic consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Jennings et al., 2016",food security,social impact,socio-economic consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Selim et al., 2016",climate change,climate change,environmental consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Selim et al., 2016",fishing impact,fishing impact,fishing impact,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Sigur?ard??ttir et al., 2015",discard mitigation,discard reduction,"bycatch, discard, and selectivity",58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Silver and Ellis, 2019",bycatch and discards,bycatch and discard,"bycatch, discard, and selectivity",58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Speirs et al., 2016",fishing effects,fishing impact,fishing impact,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Speirs et al., 2016",Large Fish Indicator,size-based indicator,performance indicator,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Pope et al., 2019",model comparison,model comparison,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"St?bler et al., 2018",model comparison,model comparison,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"St?bler et al., 2016",multi-objective,multi-objective,objective,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Speirs et al., 2016",multispecies model,multispecies model,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"St?bler et al., 2018",fishing impact,fishing impact,fishing impact,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"St?bler et al., 2019",multispecies-MSY,MMSY,objective,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"St?bler et al., 2019",food web,trophic interaction,ecosystem consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Thorpe, 2019",multispecies MSY,MMSY,objective,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Spence et al., 2018",multispecies model,multispecies model,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Thorpe et al., 2015",multispecies size-structured model,size-structured model,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Thorpe et al., 2016",multispeceis interaction,trophic interaction,ecosystem consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Thorpe et al., 2016",environmental effects,environmental effect,environmental consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Thorpe et al., 2017",pretty good yield,pretty good yield,objective,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Thorpe et al., 2019",fish community MSY,MMSY,objective,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Thorpe et al., 2016",multispecies size-structured model,size-structured model,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Trifonova et al., 2017",fisheries catch,fishing impact,fishing impact,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Trifonova et al., 2017",temperature change,temperature,environmental consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Ulrich et al., 2017",MSY,MSY,objective,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"van der Reijden et al., 2017",discard motality,discard mortality,"bycatch, discard, and selectivity",58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Stelzenm??ller et al., 2016",fishing effort displacement,spatial/temporal pattern ,fleet dynamics and fishing behavior,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Vogel et al., 2017",selectivity,selectivity,"bycatch, discard, and selectivity",58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Walker et al., 2019",exploitation status,fishing impact,fishing impact,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"van der Reijden et al., 2018",fishing hotspots,spatial/temporal pattern ,fleet dynamics and fishing behavior,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Hornborg et al., 2020",Productivity Susceptibility Analysis,Productivity Susceptibility Analysis,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Batsleer et al., 2016",landing obligation,landing obligation,management policy/strategy,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Baudron and Fernandes, 2015",discard ban,landing obligation,management policy/strategy,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Pointin et al., 2019",landing obligation,landing obligation,management policy/strategy,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Sys et al., 2016",fleet dynamics,fleet dynamics,fleet dynamics and fishing behavior,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Simons et al., 2015",landing obligation,landing obligation,management policy/strategy,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Andersen et al., 2015",size-spectrum model,size-spectrum model,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Spence et al., 2015",size-spectrum model,size-spectrum model,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Holt and Raicevich, 2018",management policy,management plan,management policy/strategy,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Mackinson et al., 2018",Multiannual Plan,Multiannual Plan,management policy/strategy,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"van Dijk et al., 2017",quota adjustment restriction,catch share/quota,management policy/strategy,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Piet et al., 2019",societal goals,socioeconomics,socio-economic consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Thorpe et al., 2016",technical interaction,selectivity,"bycatch, discard, and selectivity",58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Pope, 2019",socioeconomics,socioeconomics,socio-economic consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Rouse et al., 2018",pipelines,socioeconomics,socio-economic consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Rouse et al., 2020",pipelines,socioeconomics,socio-economic consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Bartelings et al., 2015",spatial closure,MPA/spatial management,management policy/strategy,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Stelzenm??ller et al., 2016",socio-economic scoping,socioeconomics,socio-economic consideration,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Pope, 2019",T-ONS model,multispecies model,modeling,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Couce et al., 2020",trawling effort,fishing effort,fleet dynamics and fishing behavior,58,93
+10,EU North Atlantic,North Sea demersal mixed fishery,"Bourdaud et al., 2016",trophic indicators,trophic indicator,performance indicator,58,93
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Ono et al., 2018",multispecies fishery MSE,multispecies fishery MSE,modeling,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Barbeaux et al., 2018",fishery acoustic survey,fishery survey,monitoring,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Holsman et al., 2015",multispecies statistical catch at age model,multispecies stock assessment model,modeling,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Ono et al., 2018",technical interaction,selectivity,"bycatch, discard, and selectivity",14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Ono et al., 2018",fleet dynamics,fleet dynamics,fleet dynamics and fishing behavior,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Barbeaux et al., 2018",multispecies quota,catch share/quota,management policy/strategy,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Holsman and Aydin, 2015",climate change,climate change,environmental consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Holsman and Aydin, 2015",predator prey,trophic interaction,ecosystem consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Uchiyama et al., 2015",multispecies model,multispecies model,modeling,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Uchiyama et al., 2015",biomass dynamics model,model comparison,modeling,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Uchiyama et al., 2015",predator prey interaction,trophic interaction,ecosystem consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Ianelli et al., 2016",multispecies model,multispecies model,modeling,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Ianelli et al., 2016",climate change,climate change,environmental consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Ianelli et al., 2016",predator prey,trophic interaction,ecosystem consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Ianelli et al., 2016",EBFM,EBFM,ecosystem consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Conners and Levine, 2017",discard mortality and bycatch,bycatch and discard,"bycatch, discard, and selectivity",14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Hollowed et al., 2020",climate change,climate change,environmental consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Hollowed et al., 2020",fishery management strategy,management strategy,management policy/strategy,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Hollowed et al., 2020",Alaska Climate Integrated Modeling,model,modeling,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Hollowed et al., 2020",socioeconomics,socioeconomics,socio-economic consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,Moffitt et al. 2016,EBFM,EBFM,ecosystem consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,Moffitt et al. 2016,multispecies model,multispecies model,modeling,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,Moffitt et al. 2016,predator prey,trophic interaction,ecosystem consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,Moffitt et al. 2016,harvest control rule,harvest control rule,management policy/strategy,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Reum et al., 2020",climate change,climate change,environmental consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Reum et al., 2020",food web,trophic interaction,ecosystem consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Reum et al., 2020",multispecies size-structured model,multispecies model,modeling,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Punt et al., 2016",end-to-end modeling,end-to-end ecosystem model,modeling,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Punt et al., 2016",EBFM,EBFM,ecosystem consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Punt et al., 2016",MSE,management strategy,management policy/strategy,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Holsman et al., 2020",climate change,climate change,environmental consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Holsman et al., 2020",EBFM,EBFM,ecosystem consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Holsman et al., 2020",MSE,management strategy,management policy/strategy,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Ortiz et al., 2016",physical-biologicalinteractions,environmental effect,environmental consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Ortiz et al., 2016",end-to-end modeling,end-to-end ecosystem model,modeling,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Ortiz et al., 2016",ecosystem model,multispecies model,modeling,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Holsman et al., 2019",climate change,climate change,environmental consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Holsman et al., 2019",dynamic management,dynamic management,management policy/strategy,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Holsman et al., 2019",EBM,EBM,ecosystem consideration,14,40
+11,US,Bering Sea and Aleutian Island groundfish fishery,"Holsman et al., 2019",social-ecological systems,socioeconomics,socio-economic consideration,14,40
+12,US,Gulf of Alaska groundfish fishery,"Hsueh and Kasperski, 2018",catch share,catch share/quota,management policy/strategy,13,20
+12,US,Gulf of Alaska groundfish fishery,"Correia  and Abebe,  2021",spatiotemporal dynamics in catch,spatial/temporal pattern ,fleet dynamics and fishing behavior,13,20
+12,US,Gulf of Alaska groundfish fishery,"Ruziicka et al., 2019",end-to-end ecosystem model,end-to-end ecosystem model,modeling,13,20
+12,US,Gulf of Alaska groundfish fishery,"Hsueh and Kasperski, 2018",fishing activity,fishing behavior,fleet dynamics and fishing behavior,13,20
+12,US,Gulf of Alaska groundfish fishery,"Ruziicka et al., 2019",economics,economic performance,socio-economic consideration,13,20
+12,US,Gulf of Alaska groundfish fishery,Cahalan et al. 2016,discard estimation,discard estimation,"bycatch, discard, and selectivity",13,20
+12,US,Gulf of Alaska groundfish fishery,Cahalan et al. 2016,sampling,sampling,monitoring,13,20
+12,US,Gulf of Alaska groundfish fishery,"Conners and Levine, 2017",discard mortality,discard mortality,"bycatch, discard, and selectivity",13,20
+12,US,Gulf of Alaska groundfish fishery,"Hollowed et al., 2020",climate change,climate change,environmental consideration,13,20
+12,US,Gulf of Alaska groundfish fishery,"Jones et al., 2021",catchability,catchability,"bycatch, discard, and selectivity",13,20
+12,US,Gulf of Alaska groundfish fishery,"Mathis et al., 2015",ocean acidification,ocean acidification,environmental consideration,13,20
+12,US,Gulf of Alaska groundfish fishery,"McQuaw and Hilborn, 2020",choke species,selectivity,"bycatch, discard, and selectivity",13,20
+12,US,Gulf of Alaska groundfish fishery,"Dorn and Zador, 2020",risk assessment,risk assessment,modeling,13,20
+12,US,Gulf of Alaska groundfish fishery,"Ruziicka et al., 2019",changes in oceanographic conditions,environmental effect,environmental consideration,13,20
+12,US,Gulf of Alaska groundfish fishery,"Ruziicka et al., 2019",fishing impact,fishing impact,fishing impact,13,20
+12,US,Gulf of Alaska groundfish fishery,"Ruziicka et al., 2019",food web,trophic interaction,ecosystem consideration,13,20
+12,US,Gulf of Alaska groundfish fishery,"Yochum et al., 2015",bycatch mortality,bycatch estimation,"bycatch, discard, and selectivity",13,20
+12,US,Gulf of Alaska groundfish fishery,"Zador et al., 2016",EAFM,EAFM,ecosystem consideration,13,20
+12,US,Gulf of Alaska groundfish fishery,"Thorson et al., 2019",spatio-temporal model,spatio-temporal model,modeling,13,20
+12,US,Gulf of Alaska groundfish fishery,"Hollowed et al., 2020",socio-ecological system,socio-ecological system,socio-economic consideration,13,20
+13,US,Gulf of Mexico reef fish fishery,"Masi et al., 2017",Atlantis,Atlantis,modeling,18,27
+13,US,Gulf of Mexico reef fish fishery,"Ducharme-Bath et al., 2017",abundance index,abundance index,performance indicator,18,27
+13,US,Gulf of Mexico reef fish fishery,"Pulver, 2017b",lunar cycle,oceanographic variability,environmental consideration,18,27
+13,US,Gulf of Mexico reef fish fishery,"Saul et al.,  2020",bioeconomic model,bioeconomic model,modeling,18,27
+13,US,Gulf of Mexico reef fish fishery,"Johnston et al., 2017",biophysical model,biophysical model,modeling,18,27
+13,US,Gulf of Mexico reef fish fishery,"Sagarese et al., 2019",data-limited methods,data-limited methods,modeling,18,27
+13,US,Gulf of Mexico reef fish fishery,"Masi et al., 2017",ecological indicators,ecosystem indicator,performance indicator,18,27
+13,US,Gulf of Mexico reef fish fishery,"Garner and Patterson, 2015",fishing activity,fishing behavior,fleet dynamics and fishing behavior,18,27
+13,US,Gulf of Mexico reef fish fishery,"Dakhlia and Marvasti, 2019",fishing behavior,fishing behavior,fleet dynamics and fishing behavior,18,27
+13,US,Gulf of Mexico reef fish fishery,"Saul and Die, 2016",fishing behavior,fishing behavior,fleet dynamics and fishing behavior,18,27
+13,US,Gulf of Mexico reef fish fishery,"Masi et al., 2020",harvest control rule,harvest control rule,management policy/strategy,18,27
+13,US,Gulf of Mexico reef fish fishery,"Saul et al.,  2020",fishing behavior,fishing behavior,fleet dynamics and fishing behavior,18,27
+13,US,Gulf of Mexico reef fish fishery,"Watson et al., 2018",fishing behavior,fishing behavior,fleet dynamics and fishing behavior,18,27
+13,US,Gulf of Mexico reef fish fishery,"Ducharme-Bath and Ahrens, 2017",fishing effort distribution,spatial/temporal pattern ,fleet dynamics and fishing behavior,18,27
+13,US,Gulf of Mexico reef fish fishery,"Christiansen et al., 2020",selectivity,selectivity,"bycatch, discard, and selectivity",18,27
+13,US,Gulf of Mexico reef fish fishery,"Christiansen et al., 2020",survey sampling gear,survey sampling gear,monitoring,18,27
+13,US,Gulf of Mexico reef fish fishery,"Foster et al., 2017",bycatch reduction,bycatch reduction,"bycatch, discard, and selectivity",18,27
+13,US,Gulf of Mexico reef fish fishery,"Johnston et al., 2017",trophic interaction,trophic interaction,ecosystem consideration,18,27
+13,US,Gulf of Mexico reef fish fishery,"Masi et al., 2017",fishing effects,fishing impact,fishing impact,18,27
+13,US,Gulf of Mexico reef fish fishery,"Masi et al., 2020",trophic interaction,trophic interaction,ecosystem consideration,18,27
+13,US,Gulf of Mexico reef fish fishery,"Pulver, 2017a",discard mortality,discard mortality,"bycatch, discard, and selectivity",18,27
+13,US,Gulf of Mexico reef fish fishery,"Pulver and Stephen, 2019",discard,discard,"bycatch, discard, and selectivity",18,27
+13,US,Gulf of Mexico reef fish fishery,"Cockrell et al., 2019",fleet resilience,fishing behavior,fleet dynamics and fishing behavior,18,27
+13,US,Gulf of Mexico reef fish fishery,"Farmer et al., 2016",management unit,management unit,management policy/strategy,18,27
+13,US,Gulf of Mexico reef fish fishery,"Dakhlia and Marvasti, 2019",regulatory change,regulatory change,management policy/strategy,18,27
+13,US,Gulf of Mexico reef fish fishery,"Watson et al., 2018",regulatory change,regulatory change,management policy/strategy,18,27
+13,US,Gulf of Mexico reef fish fishery,"Cockrell et al., 2019",fishing closure,temporal management,management policy/strategy,18,27
+14,US,Gulf of Mexico shrimp fishery,"Mutsert et al., 2016",EwE,EwE,modeling,7,11
+14,US,Gulf of Mexico shrimp fishery,"Purcell et al., 2017",fleet behavior,fishing behavior,fleet dynamics and fishing behavior,7,11
+14,US,Gulf of Mexico shrimp fishery,"Gallaway et al., 2020",fishing effort,fishing effort,fleet dynamics and fishing behavior,7,11
+14,US,Gulf of Mexico shrimp fishery,"Gallaway et al., 2017",bycatch reduction,bycatch reduction,"bycatch, discard, and selectivity",7,11
+14,US,Gulf of Mexico shrimp fishery,"Gallaway et al., 2020",bycatch,bycatch,"bycatch, discard, and selectivity",7,11
+14,US,Gulf of Mexico shrimp fishery,"Jim??nez-Badillo et al., 2017",EAFM,EAFM,ecosystem consideration,7,11
+14,US,Gulf of Mexico shrimp fishery,"Monk et al., 2015",bycatch,bycatch,"bycatch, discard, and selectivity",7,11
+14,US,Gulf of Mexico shrimp fishery,"Mutsert et al., 2016",hypoxia,hypoxia,environmental consideration,7,11
+14,US,Gulf of Mexico shrimp fishery,"Parsons and Foster, 2015",bycatch reduction,bycatch reduction,"bycatch, discard, and selectivity",7,11
+14,US,Gulf of Mexico shrimp fishery,"Purcell et al., 2017",hypoxia,hypoxia,environmental consideration,7,11
+14,US,Gulf of Mexico shrimp fishery,"Purcell et al., 2017",spatial dynamics,spatio-temporal distribution,population dynamics,7,11
+15,US,Northeast groundfish fishery,"Schug et al., 2020",catch share program,catch share/quota,management policy/strategy,13,23
+15,US,Northeast groundfish fishery,"Thunberg et al., 2015",catch share program,catch share/quota,management policy/strategy,13,23
+15,US,Northeast groundfish fishery,"Ardini et al., 2020",cost,cost,socio-economic consideration,13,23
+15,US,Northeast groundfish fishery,"Walden et al., 2017",Bennet-Bowley indicator,productivity indicator,performance indicator,13,23
+15,US,Northeast groundfish fishery,"Sun and Fine, 2016",cost-effectiveness,cost,socio-economic consideration,13,23
+15,US,Northeast groundfish fishery,"Holland et al., 2015",co-management,co-management,management policy/strategy,13,23
+15,US,Northeast groundfish fishery,"Kritzer et al., 2019",harvest control rule,harvest control rule,management policy/strategy,13,23
+15,US,Northeast groundfish fishery,"Holland et al., 2015",economic performance,economic performance,socio-economic consideration,13,23
+15,US,Northeast groundfish fishery,"Kritzer et al., 2019",scientific uncertainty,scientific uncertainty,modeling,13,23
+15,US,Northeast groundfish fishery,"Thunberg et al., 2015",Lowe index,productivity indicator,performance indicator,13,23
+15,US,Northeast groundfish fishery,"Wiedenmann and Jensen, 2016",scientific uncertainty,scientific uncertainty,modeling,13,23
+15,US,Northeast groundfish fishery,"Adams et al., 2018",fishing pressure,fishing impact,fishing impact,13,23
+15,US,Northeast groundfish fishery,"Adams et al., 2018",bottom temperature,temperature,environmental consideration,13,23
+15,US,Northeast groundfish fishery,"Adams et al., 2018",spatiotemporal distribution,spatio-temporal distribution,population dynamics,13,23
+15,US,Northeast groundfish fishery,"Ardini et al., 2020",monitoring,monitoring,monitoring,13,23
+15,US,Northeast groundfish fishery,"Knotek et al., 2020",discard mortality,discard mortality,"bycatch, discard, and selectivity",13,23
+15,US,Northeast groundfish fishery,"Kritzer et al., 2019",climate change,climate change,environmental consideration,13,23
+15,US,Northeast groundfish fishery,"Palmer et al., 2016",observer,observer,monitoring,13,23
+15,US,Northeast groundfish fishery,"Scheld and Anderson, 2016",selectivity,selectivity,"bycatch, discard, and selectivity",13,23
+15,US,Northeast groundfish fishery,"Scheld et al., 2018",selectivity,selectivity,"bycatch, discard, and selectivity",13,23
+15,US,Northeast groundfish fishery,"Sun and Fine, 2016",at-sea monitoring,at-sea monitoring,monitoring,13,23
+15,US,Northeast groundfish fishery,"Sun and Fine, 2016",discard,discard,"bycatch, discard, and selectivity",13,23
+15,US,Northeast groundfish fishery,"Scheld et al., 2018",rights-based output control,catch share/quota,management policy/strategy,13,23
+16,US,Pacific Coast groundfish fishery,"Brinson and Thunberg, 2016",catch share,catch share/quota,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Errend et al., 2018",catch share program,catch share/quota,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Holland, 2016",catch share,catch share/quota,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Kuriyama et al., 2016",catch share,catch share/quota,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Russell et al., 2016",catch share,catch share/quota,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Russell et al., 2018",catch share,catch share/quota,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Speir and Lee, 2021",catch share,catch share/quota,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Steiner et al., 2019",catch share,catch share/quota,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Vizek et al., 2020",catch share,catch share/quota,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Warlick et al., 2018",catch share,catch share/quota,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Matson et al., 2017",catch projection model,catch projection model,modeling,22,32
+16,US,Pacific Coast groundfish fishery,"Errend et al., 2018",economic outcome,economic effects,socio-economic consideration,22,32
+16,US,Pacific Coast groundfish fishery,"Leonard and Steinder, 2017",economic impacts,economic effects,socio-economic consideration,22,32
+16,US,Pacific Coast groundfish fishery,"Warlick et al., 2018",economic outcome,economic effects,socio-economic consideration,22,32
+16,US,Pacific Coast groundfish fishery,"Wetzel and Punt, 2017",harvest control rule,harvest control rule,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Brinson and Thunberg, 2016",economic performance,economic performance,socio-economic consideration,22,32
+16,US,Pacific Coast groundfish fishery,"Russell et al., 2016",social impact,social impact,socio-economic consideration,22,32
+16,US,Pacific Coast groundfish fishery,"Leonard and Steinder, 2017",individual fishing quota,catch share/quota,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Russell et al., 2018",social impact,social impact,socio-economic consideration,22,32
+16,US,Pacific Coast groundfish fishery,"Steiner et al., 2019",job satisfaction,social impact,socio-economic consideration,22,32
+16,US,Pacific Coast groundfish fishery,"Mamula and Collier, 2015",Lowe index,productivity indicator,performance indicator,22,32
+16,US,Pacific Coast groundfish fishery,"Speir and Lee, 2021",landing distribution,spatial/temporal pattern ,fleet dynamics and fishing behavior,22,32
+16,US,Pacific Coast groundfish fishery,"McQuaw et al., 2021",rebuilding plan,management plan,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Vizek et al., 2020",social impacts,social impact,socio-economic consideration,22,32
+16,US,Pacific Coast groundfish fishery,"Bjorkland et al., 2015",bycatch reduction,bycatch reduction,"bycatch, discard, and selectivity",22,32
+16,US,Pacific Coast groundfish fishery,"Lomeli and Wakefield, 2016",bycatch reduction,bycatch reduction,"bycatch, discard, and selectivity",22,32
+16,US,Pacific Coast groundfish fishery,"Lomeli et al., 2017",bycatch reduction,bycatch reduction,"bycatch, discard, and selectivity",22,32
+16,US,Pacific Coast groundfish fishery,"Lomeli et al., 2018",selectivity,selectivity,"bycatch, discard, and selectivity",22,32
+16,US,Pacific Coast groundfish fishery,"Lomeli et al., 2021",bycatch reduction,bycatch reduction,"bycatch, discard, and selectivity",22,32
+16,US,Pacific Coast groundfish fishery,"Mamula and Collier, 2015",regulatory change,regulatory change,management policy/strategy,22,32
+16,US,Pacific Coast groundfish fishery,"Starr et al., 2016",selectivity,selectivity,"bycatch, discard, and selectivity",22,32
+16,US,Pacific Coast groundfish fishery,"Haskell et al., 2019",vessel activity,fishing behavior,fleet dynamics and fishing behavior,22,32
+17,US,South Atlantic snapper-grouper fishery,,,,,0,0
+18,US,West Coast coastal pelagic species fishery,,,,,0,0
+19,miscellaneous,Canada Pacific Region groundfish fishery,"Edinger and Baek, 2015",bycatch quota,bycatch quota,management policy/strategy,6,9
+19,miscellaneous,Canada Pacific Region groundfish fishery,"Kuriyama et al., 2016",catch share,catch share/quota,management policy/strategy,6,9
+19,miscellaneous,Canada Pacific Region groundfish fishery,"Forrest et al., 2018",harvest control rule,harvest control rule,management policy/strategy,6,9
+19,miscellaneous,Canada Pacific Region groundfish fishery,"Edwards and Edwards, 2017",license bank,license bank,management policy/strategy,6,9
+19,miscellaneous,Canada Pacific Region groundfish fishery,Wallace et al. 2015,habitat conservation collaboration agreement,management plan,management policy/strategy,6,9
+19,miscellaneous,Canada Pacific Region groundfish fishery,"Edinger and Baek, 2015",bycatch reduction,bycatch reduction,"bycatch, discard, and selectivity",6,9
+19,miscellaneous,Canada Pacific Region groundfish fishery,"Stanley et al., 2015",electronic monitoring,electronic monitoring,monitoring,6,9
+19,miscellaneous,Canada Pacific Region groundfish fishery,Wallace et al. 2015,EBM,EBM,ecosystem consideration,6,9
+19,miscellaneous,Canada Pacific Region groundfish fishery,Wallace et al. 2015,habitat impact,fishing impact,fishing impact,6,9
+20,miscellaneous,China-Shandong mixed fishery,"Sun et al., 2017",artificial reef,artificial reef,management policy/strategy,2,3
+20,miscellaneous,China-Shandong mixed fishery,"Sun et al., 2017",bioeconomic effects,economic effects,socio-economic consideration,2,3
+20,miscellaneous,China-Shandong mixed fishery,"Wo et al., 2020",size-spectrum model,size-spectrum model,modeling,2,3
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,"Bailey and Sumaila, 2015",bioeconomic model,bioeconomic model,modeling,5,8
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,"Amorim et al., 2020",length-based methods,length-based methods,modeling,5,8
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,"Forero et al., 2017",spatial fishing effort,spatial/temporal pattern ,fleet dynamics and fishing behavior,5,8
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,"Halim et al., 2020",spawning potential ratio,length-based methods,modeling,5,8
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,"Wibisono et al., 2020",spatial management,MPA/spatial management,management policy/strategy,5,8
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,"Bailey and Sumaila, 2015",EBM,EBM,ecosystem consideration,5,8
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,"Forero et al., 2017",boat tracking,boat tracking,monitoring,5,8
+21,miscellaneous,Indonesia deepwater snapper-grouper fishery,"Wibisono et al., 2020",juvenile spatial distribution,spatio-temporal distribution,population dynamics,5,8
+22,miscellaneous,Northern Brazil-Guianas Shelf shrimp and groundfish fishery,"Singh et al., 2020",fishing effort distribution,spatial/temporal pattern ,fleet dynamics and fishing behavior,2,2
+22,miscellaneous,Northern Brazil-Guianas Shelf shrimp and groundfish fishery,"Issac et al., 2017",EBM,EBM,ecosystem consideration,2,2
+23,miscellaneous,Northern Chile small pelagic fishery,"Canales et al., 2015",size-based indicators,size-based indicator,performance indicator,2,6
+23,miscellaneous,Northern Chile small pelagic fishery,"Canales et al., 2015",environmental variability,environmental effect,environmental consideration,2,6
+23,miscellaneous,Northern Chile small pelagic fishery,"Canales et al., 2015",fishing impact,fishing impact,fishing impact,2,6
+23,miscellaneous,Northern Chile small pelagic fishery,"Canales et al., 2020",temperature,temperature,environmental consideration,2,6
+23,miscellaneous,Northern Chile small pelagic fishery,"Canales et al., 2020",fishing impact,fishing impact,fishing impact,2,6
+23,miscellaneous,Northern Chile small pelagic fishery,"Canales et al., 2020",population dynamics,population dynamics,population dynamics,2,6
+24,miscellaneous,South African small pelagic fishery,"McInnes et al., 2019",predator-prey interaction,trophic interaction,ecosystem consideration,3,4
+24,miscellaneous,South African small pelagic fishery,"Parker et al., 2020",predator-prey interaction,trophic interaction,ecosystem consideration,3,4
+24,miscellaneous,South African small pelagic fishery,"Robinson et al., 2015",fishing impact,fishing impact,fishing impact,3,4
+24,miscellaneous,South African small pelagic fishery,"Robinson et al., 2015",predator-prey interaction,trophic interaction,ecosystem consideration,3,4
